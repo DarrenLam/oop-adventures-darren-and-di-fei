@@ -1,0 +1,75 @@
+[{
+    "A1":{
+        "connection":["A2","B1"],
+        "shrine":{
+            "Altar of Sacrifice":1,
+            "Shrine of Protection":1
+        },
+        "chest":{
+            "Small":8,
+            "Medium":4,
+            "Large":4,
+            "Special":2
+        },
+        "loose_loot":{
+            "coin":15,
+            "bandage":7,
+            "potion":4
+        },
+        "ore":{
+            "Rubysilver":4
+        },
+        "monster":{
+            "Demon Dog":3,
+            "Mummy":4,
+            "Skeleton Archer":4,
+            "Skeleton Footman":3,
+            "Wraith":1
+        }
+    }
+},
+{
+    "A2":{
+        "connection":["A1","A3","B2"],
+        "shrine":{
+            "Altar of Sacrifice":1
+        },
+        "chest":{
+            "Small":5,
+            "Medium":9,
+            "Large":2,
+            "Special":1,
+            "Skeleton Corpse":1
+        },
+        "loose_loot":{
+            "coin":5,
+            "bandage":6,
+            "gem":11,
+            "potion":1
+        },
+        "monster":{
+            "Demon Dog":2,
+            "Dragonfly":4,
+            "Mummy":3,
+            "Skeleton Footman":2,
+            "Skeleton Guardsman":2,
+            "Skeleton Mage":1
+        }
+    }
+},
+{
+    "A3":{
+        "connection":["A2","B3"],
+        "chest":{
+            "Small":7,
+            "Special":1
+        },
+        "loose_loot":{
+            "coin":21,
+            "bandage":9,
+            "treasure":1
+        },
+        "monster":
+    }
+}
+]
