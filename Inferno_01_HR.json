@@ -3,27 +3,27 @@
         "connection":["A2","B1"],
         "shrine":{
             "Altar of Sacrifice":1,
-            "Shrine of Protection":1
+            "Shine of Protection":1
         },
         "chest":{
             "Small":8,
-            "Medium":4,
+            "Medium":8,
             "Large":4,
             "Special":2
         },
         "loose_loot":{
-            "coin":15,
-            "bandage":7,
-            "potion":4
+            "coin":17,
+            "potion":5,
+            "bandage":7
         },
         "ore":{
-            "Rubysilver":4
+            "Rubysilver":6
         },
         "monster":{
             "Demon Dog":3,
             "Mummy":4,
-            "Skeleton Archer":4,
-            "Skeleton Footman":3,
+            "Skeleton Footman":6,
+            "Skeleton Archer":5,
             "Wraith":1
         }
     }
@@ -42,9 +42,9 @@
             "Skeleton Corpse":1
         },
         "loose_loot":{
-            "coin":5,
+            "coin":4,
             "bandage":6,
-            "gem":11,
+            "gem":12,
             "potion":1
         },
         "structure":{
@@ -68,8 +68,8 @@
             "Special":1
         },
         "loose_loot":{
-            "coin":21,
-            "bandage":9,
+            "coin":8,
+            "bandage":4,
             "treasure":1
         },
         "structure":{
@@ -78,9 +78,11 @@
         "monster":{
             "Death Skull":2,
             "Demon Dog":2,
-            "Skeleton Archer":2,
-            "Skeleton Mage":1,
-            "Zombie":2
+            "Zombie":2,
+            "Skeleton Footman":3,
+            "Skeleton Guardsman":1,
+            "Skeleton Archer":1,
+            "Skeleton Mage":1
         }
     }
 },
@@ -88,19 +90,19 @@
     "B1":{
         "connection":["A1","B2","C1"],
         "chest":{
-            "Small":1,
-            "Medium":19,
-            "Large":3,
-            "Special":1
+        "Small":1,
+        "Medium":19,
+        "Large":3,
+        "Special":1
         },
         "loose_loot":{
-            "weapon":1,
+            "loot":9,
             "coin":1,
-            "potion":2,
-            "loot":8
+            "potion":1,
+            "weapon":1
         },
         "structure":{
-            "Pot":21,
+            "Pot":24,
             "Wooden Barrel":17
         },
         "ore":{
@@ -110,8 +112,8 @@
             "Spider Pot":3,
             "Skeleton Footman":14,
             "Skeleton Archer":4,
-            "Skeleton Mage":1,
-            "Skeleton Guardsman":1
+            "Skeleton Guardsman":1,
+            "Skeleton Mage":1
         }
     }
 },
@@ -124,8 +126,8 @@
         },
         "monster":{
             "Lich":1,
-            "Skeleton Archer":3,
-            "Skeleton Guardsman":3
+            "Skeleton Guardsman":3,
+            "Skeleton Archer":3
         }
     }
 },
@@ -146,12 +148,15 @@
             "bandage":3,
             "gem":4
         },
+        "structure":{
+            "Pot":2
+        },
         "ore":{
-            "Rubysilver":7
+            "Rubysilver":8
         },
         "monster":{
             "Centaur":1,
-            "Demon Bat":1,
+            "Demon Bat":2,
             "Demon Dog":1,
             "Skeleton Footman":1,
             "Skeleton Guardsman":1,
@@ -173,6 +178,7 @@
         "monster":{
             "Centaur":1,
             "Death Skull":4,
+            "Demon Dog":2,
             "Dragonfly":1,
             "Mummy":2,
             "Skeleton Footman":3,
@@ -190,6 +196,7 @@
             "Small":3,
             "Medium":3,
             "Special":1,
+            "Heavy Ornate":1,
             "Skeleton Bones":5
         },
         "structure":{
@@ -197,10 +204,11 @@
         },
         "monster":{
             "Demon Dog":2,
-            "Skeleton Footman":2,
+            "Zombie":2,
             "Skeleton Archer":2,
-            "Skeleton Guardsman":2,
-            "Zombie":2
+            "Skeleton Mage":1,
+            "Skeleton Footman":2,
+            "Skeleton Guardsman":2
         }
     }
 },
@@ -208,27 +216,28 @@
     "C3":{
         "connection":["B3","C2"],
         "shrine":{
-            "Altar of Sacrifice":1,
-            "Shrine of Health":2
+            "Shrine of Health":2,
+            "Altar of Sacrifice":1
         },
         "chest":{
             "Small":12,
             "Medium":8,
-            "Large":2,
+            "Large":4,
             "Special":1,
             "Skeleton Corpse":1
-        },
-        "loose_loot":{
-            "coin":23,
-            "bandage":4,
-            "gem":2
         },
         "ore":{
             "Rubysilver":11
         },
         "structure":{
-            "Pot":4,
-            "Wooden Barrel":7
+            "Wooden Barrel":7,
+            "Pot":5
+        },
+        "loose_loot":{
+            "coin":31,
+            "bandage":10,
+            "potion":2,
+            "gem":2
         },
         "monster":{
             "Centaur":1,

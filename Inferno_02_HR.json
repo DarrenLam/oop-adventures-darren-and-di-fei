@@ -1,0 +1,214 @@
+[{
+    "A1":{
+        "connection":["A2","B1"],
+        "shrine":{
+            "Shrine of Power":1,
+            "Shrine of Health":1
+        },
+        "chest":{
+            "Medium":12,
+            "Large":2,
+            "Special":2,
+            "Skeleton Corpse":7
+        },
+        "loose_loot":{
+            "coin":27,
+            "bandage":9,
+            "potion":2,
+            "gem":3,
+            "weapon":1
+        },
+        "structure":{
+            "Wooden Barrel":11
+        },
+        "monster":{
+            "Demon Bat":3,
+            "Dragonfly":2,
+            "Skeleton Footman":2,
+            "Skeleton Guardsman":4,
+            "Wraith":2,
+            "Spider":2,
+            "Zombie":4
+        }
+    }
+},
+{
+    "A2":{
+        "connection":["A1","A3","B2"],
+        "shrine":{
+            "Altar of Sacrifice":1
+        },
+        "chest":{
+            "Small":4,
+            "Medium":6,
+            "Large":2,
+            "Special":2
+        },
+        "loose_loot":{
+            "coin":16,
+            "potion":7,
+            "bandage":11
+        },
+        "structure":{
+            "Wooden Barrel":6,
+            "Pot":8
+        },
+        "monster":{
+            "Centaur":1,
+            "Demon Dog":2,
+            "Skeleton Guardsman":2,
+            "Skeleton Archer":1
+        }
+    }
+},
+{
+    "A3":{
+        "connection":["A2","B3"],
+        "shrine":{
+        "Altar of Sacrifice":1,
+        "Shrine of Health":1,
+        "Shrine of Power":1
+        },
+        "chest":{
+            "Medium":6,
+            "Large":1,
+            "Special":1,
+            "Heavy Ornate":1
+        },
+        "structure":{
+            "Pot":4
+        },
+        "monster":{
+            "Centaur":1,
+            "Demon Skull":4,
+            "Demon Bat":1,
+            "Demon Dog":3,
+            "Skeleton Archer":3,
+            "Skeleton Footman":1,
+            "Skeleton Guardsman":1
+        }
+    }
+},
+{
+    "B1":{
+        "connection":["A1","B2","C1"],
+        "chest":{
+            "Small":8
+        },
+        "structure":{
+            "Wooden Barrel":4,
+            "Skeleton Archer":4,
+            "Skeleton Footman":4
+        }
+    }
+},
+{
+    "B2":{
+        "connection":["A2","B1","B3","C2"],
+        "chest":{
+            "Treasure Hoard":1
+        },
+        "monster":{
+            "Ghost King":1
+        }
+    }
+},
+{
+    "B3":{
+        "connection":["A3","B2","C3"],
+        "shrine":{
+            "Altar of Sacrifice":1,
+            "Shrine of Health":1,
+            "Shrine of Power":1,
+            "Shrine of Protection":1,
+            "Fountain of Speed":1
+        },
+        "chest":{
+            "Small":9,
+            "Medium":11,
+            "Skeleton Corpse":3
+        },
+        "loose_loot":{
+            "bandage":2,
+            "potion":1,
+            "gem":4
+        },
+        "structure":{
+            "Wooden Barrel":11,
+            "Pot":5
+        },
+        "monster":{
+            "Death Skull":2,
+            "Wraith":1,
+            "Skeleton Footman":3,
+            "Skeleton Guardsman":3,
+            "Skeleton Archer":3,
+            "Skeleton Champion":1
+        }
+    }
+},
+{
+    "C1":{
+        "connections":["B1","C2"],
+        "chest":{
+            "Small":6,
+            "Medium":1,
+            "Special":1
+        },
+        "ore":{
+            "Rubysilver":13
+        },
+        "structure":{
+            "Pot":3
+        },
+        "monster":{
+            "Dragonfly":2,
+            "Spider Pot":3
+        }
+    }
+},
+{
+    "C2":{
+        "connection":["B2","C1","C3"],
+        "chest":{
+            "Small":4,
+            "Medium":17,
+            "Large":3,
+            "Special":2
+        },
+        "loose_loot":{
+            "weapon":1,
+            "loot":1,
+            "potion":1
+        },
+        "structure":{
+            "Wooden Barrel":14,
+            "Pot":6
+        },
+        "monster":{
+            "Dragonfly":3,
+            "Mummy":2,
+            "Skeleton Footman":5,
+            "Skeleton Archer":6,
+            "Skeleton Guardsman":2
+        }
+    }
+},
+{
+    "C3":{
+        "connection":["B3","C2"],
+        "chest":{
+            "Small":4,
+            "Medium":5,
+            "Special":2,
+            "Bronze Ornate":1
+        },
+        "monster":{
+            "Skeleton Mage":1,
+            "Skeleton Footman":3,
+            "Skeleton Guardsman":2,
+            "Skeleton Archer":1
+        }
+    }
+}
+]
