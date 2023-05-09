@@ -1,46 +1,1026 @@
 [{
-    "A1":{
-        "connection":["A2","B1","C1","C2","D1"]
+    "room":"A1",
+    "connection":["A2","B1","C1","C2","D1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":4,
+       "Skeleton_Archer(N)":3,
+       "Skeleton_Footman(N)":6,
     }
 },
 {
-    "A2":{
-        "connection":["A1","A3","B1"]
+    "room":"A2",
+    "connection":["A1","A3","B1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":1,
     }
 },
 {
-    "A3":{
-        "connection":["A2","A4","B2"]
+    "room":"A3",
+    "connection":["A2","A4","B2"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":5,
     }
 },
 {
-    "A4":{
-        "connection":["A3","B3","C5"]
+    "room":"A4",
+    "connection":["A3","B3","C5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Champion#Common":1,
+       "Skeleton_Footman(N)":6,
     }
 },
 {
-    "B1":{
-        "connection":["A2","B2","C1","C2"]
+    "room":"B1",
+    "connection":["A2","B2","C1","C2","D1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":2,
     }
 },
 {
-    "B2":{
-        "connection":["A3","B1","B3","C3"]
+    "room":"B2",
+    "connection":["A3","B1","B3","C3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":5,
     }
 },
 {
-    "B3":{
-        "connection":["A4","B2","C4"]
+    "room":"B3",
+    "connection":["A4","B2","C4"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Wraith#Common":1,
+       "Skeleton_Archer(N)":3,
+
     }
 },
 {
-    "C1":{
-        "connection":["A1","B1","C2","D1"]
+    "room":"C1",
+    "connection":["A1","B1","C2","D1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":1,
+        
     }
 },
 {
-    "C2":{
-        "connection":["A1","B1","B2","C1","C3","D2"]
+    "room":"C2",
+    "connection":["A1","B1","B2","C1","C3","D2"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":12,
+
+    }
+},
+{
+    "room":"C3",
+    "connection":["B2","C2","C4","D3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Wraith#Common":1,
+       "Skeleton_Archer(N)":2,
+       "Skeleton_Footman(N)":1,
+    }
+},
+{
+    "room":"C4",
+    "connection":["B3","C3","C5","D4","D5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":4,
+    }
+},
+{
+    "room":"C5",
+    "connection":["A4","C4","D6"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"D1",
+    "connection":["A1","B1","C1","C2","D2","E1","E2"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Mage(N)":2,
+    }
+},
+{
+    "room":"D2",
+    "connection":["C2","D1","D3","E3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"D3",
+    "connection":["C3","D2","D4","E4"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+        "Skeleton_Footman(N)":3,
+    }
+},
+{
+    "room":"D4",
+    "connection":["C4","D3","E5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":1,
+       "Skeleton_Archer(N)":1,
+    }
+},
+{
+    "room":"D5",
+    "connection":["C4","D6","D7","E5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":4,
+       "Skeleton_Archer(N)":1,
+       "Skeleton_Footman(N)":1,
+    }
+},
+{
+    "room":"D6",
+    "connection":["C5","D5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":1,
+       "Skeleton_Mage(N)":4,
+    }
+},
+{
+    "room":"D7",
+    "connection":["D5","E5","E6","E7","F5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+        "Skeleton_Footman(N)":1,
+        "Skeleton_Mage(N)":2,
+    }
+},
+{
+    "room":"E1",
+    "connection":["D1","E2","F1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":2,
+    }
+},
+{
+    "room":"E2",
+    "connection":["D1","E1","E3","F2"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":2,
+    }
+},
+{
+    "room":"E3",
+    "connection":["D2","E2","E4","F3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":1,
+       "Skeleton_Footman(N)":4,
+    }
+},
+{
+    "room":"E4",
+    "connection":["D3","E3","E5","F4"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":2,
+    }
+},
+{
+    "room":"E5",
+    "connection":["D4","D5","D7","E4","E6","E7","F4","F5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+        "Wraith#Common":1,
+        "Skeleton_Archer(N)":2,
+        "Skeleton_Footman(N)":1,
+    }
+},
+{
+    "room":"E6",
+    "connection":["D7","E5","E7","F5","G6"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":1,
+       "Skeleton_Footman(N)":1,
+    }
+},
+{
+    "room":"E7",
+    "connection":["D7","E5","E6","F5","G6"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Archer(N)":1,
+       "Skeleton_Footman(N)":1,
+    }
+},
+{
+    "room":"F1",
+    "connection":["E1","G1"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"F2",
+    "connection":["E2","F3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Footman(N)":2,
+    }
+},
+{
+    "room":"F3",
+    "connection":["E3","F4","G4"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Skeleton_Champion#Common":1,   
+       "Skeleton_Archer(N)":1,
+       "Skeleton_Footman(N)":3,
+    }
+},
+{
+    "room":"F4",
+    "connection":["E4","E5","F3","F5","G4","G5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":2,
+        "Skeleton_Archer(N)":2,
+        "Skeleton_Footman(N)":2,
+        "Skeleton_Mage(N)":1,
+    }
+},
+{
+    "room":"F5",
+    "connection":["D7","E5","E6","E7","F4","G5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"G1",
+    "connection":["F1","G2"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":3,
+        "Skeleton_Mage(N)":1,
+    }
+},
+{
+    "room":"G2",
+    "connection":["G1","G3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"G3",
+    "connection":["G2","G4"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       "Death_Skull(N)":1,
+
+    }
+},
+{
+    "room":"G4",
+    "connection":["F3","F4","G3"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"G5",
+    "connection":["F4","F5","G6"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
+    }
+},
+{
+    "room":"G6",
+    "connection":["D7","E5","E6","E7","F5","G5"],
+    "shrine":{
+
+
+    },
+    "chest":{
+       
+    },
+    "loose_loot":{
+       
+    },
+    "ore":{
+
+
+    },
+    "key":{
+       
+    },
+    "structure":{
+       
+    },
+    "monster":{
+       
     }
 }
 ]
