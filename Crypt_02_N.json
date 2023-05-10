@@ -6,7 +6,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":9,
+       "Oak_Chest#Common":5
     },
     "loose_loot":{
        
@@ -25,6 +26,7 @@
        "Death_Skull(N)":4,
        "Skeleton_Archer(N)":3,
        "Skeleton_Footman(N)":6,
+       "Skeleton_Guardsman(N)":2
     }
 },
 {
@@ -51,7 +53,7 @@
        
     },
     "monster":{
-       "Skeleton_Footman(N)":1,
+       "Skeleton_Footman(N)":1
     }
 },
 {
@@ -62,7 +64,7 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":10
     },
     "loose_loot":{
        
@@ -78,7 +80,7 @@
        
     },
     "monster":{
-       "Skeleton_Footman(N)":5,
+       "Skeleton_Footman(N)":5
     }
 },
 {
@@ -89,7 +91,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":3,
+       "Oak_Chest#Common":8
     },
     "loose_loot":{
        
@@ -106,7 +109,7 @@
     },
     "monster":{
        "Skeleton_Champion#Common":1,
-       "Skeleton_Footman(N)":6,
+       "Skeleton_Footman(N)":6
     }
 },
 {
@@ -117,7 +120,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":3
     },
     "loose_loot":{
        
@@ -134,6 +137,7 @@
     },
     "monster":{
        "Skeleton_Footman(N)":2,
+       "Spider_Pot(N)":1
     }
 },
 {
@@ -144,7 +148,7 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":13
     },
     "loose_loot":{
        
@@ -160,7 +164,7 @@
        
     },
     "monster":{
-       "Skeleton_Footman(N)":5,
+       "Skeleton_Footman(N)":5
     }
 },
 {
@@ -171,7 +175,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":8,
+       "Oak_Chest#Common":3
     },
     "loose_loot":{
        
@@ -189,7 +194,7 @@
     "monster":{
        "Wraith#Common":1,
        "Skeleton_Archer(N)":3,
-
+       "Mummy(N)":2
     }
 },
 {
@@ -200,7 +205,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -217,7 +222,8 @@
     },
     "monster":{
        "Death_Skull(N)":1,
-        
+        "Skeleton_Guardsman(N)":2,
+        "Spider_Mummy#Common":2
     }
 },
 {
@@ -228,7 +234,9 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":1,
+       "Small_Oak_Chest#Common":8,
+       "Oak_Chest#Common":3
     },
     "loose_loot":{
        
@@ -245,7 +253,7 @@
     },
     "monster":{
        "Death_Skull(N)":12,
-
+       "Mummy(N)":3
     }
 },
 {
@@ -256,7 +264,8 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":2,
+       "Oak_Chest#Common":8
     },
     "loose_loot":{
        
@@ -275,6 +284,10 @@
        "Wraith#Common":1,
        "Skeleton_Archer(N)":2,
        "Skeleton_Footman(N)":1,
+       "Spider_Pot(N)":1,
+       "Zombie(N)":2,
+       "Mummy(N)":2,
+       "Skeleton_Guardsman(N)":4
     }
 },
 {
@@ -285,7 +298,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":2,
+       "Oak_Chest#Common":11
     },
     "loose_loot":{
        
@@ -302,6 +316,8 @@
     },
     "monster":{
        "Skeleton_Archer(N)":4,
+       "Zombie(N)":4,
+       "Skeleton_Guardsman(N)":1
     }
 },
 {
@@ -312,7 +328,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":9
     },
     "loose_loot":{
        
@@ -328,7 +344,7 @@
        
     },
     "monster":{
-       
+       "Zombie(N)":5
     }
 },
 {
@@ -356,6 +372,7 @@
     },
     "monster":{
        "Skeleton_Mage(N)":2,
+       "Spider_Pot(N)":1
     }
 },
 {
@@ -366,7 +383,7 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":4
     },
     "loose_loot":{
        
@@ -382,7 +399,7 @@
        
     },
     "monster":{
-       
+       "Mummy(N)":4
     }
 },
 {
@@ -393,7 +410,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":7
     },
     "loose_loot":{
        
@@ -410,6 +427,7 @@
     },
     "monster":{
         "Skeleton_Footman(N)":3,
+        "Mummy(N)":1
     }
 },
 {
@@ -420,7 +438,7 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":7
     },
     "loose_loot":{
        
@@ -438,6 +456,10 @@
     "monster":{
        "Death_Skull(N)":1,
        "Skeleton_Archer(N)":1,
+       "Spider_Pot(N)":1,
+       "Zombie(N)":3,
+       "Mummy(N)":2,
+       "Skeleton_Guardsman(N)":1
     }
 },
 {
@@ -448,7 +470,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":4
     },
     "loose_loot":{
        
@@ -467,6 +489,8 @@
        "Death_Skull(N)":4,
        "Skeleton_Archer(N)":1,
        "Skeleton_Footman(N)":1,
+       "Spider_Pot(N)":2,
+       "Mummy(N)":7
     }
 },
 {
@@ -495,6 +519,7 @@
     "monster":{
        "Skeleton_Footman(N)":1,
        "Skeleton_Mage(N)":4,
+       "Skeleton_Guardsman(N)":1
     }
 },
 {
@@ -523,6 +548,7 @@
     "monster":{
         "Skeleton_Footman(N)":1,
         "Skeleton_Mage(N)":2,
+        "Skeleton_Guardsman(N)":1
     }
 },
 {
@@ -533,7 +559,7 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":4
     },
     "loose_loot":{
        
@@ -550,6 +576,7 @@
     },
     "monster":{
        "Skeleton_Archer(N)":2,
+       "Skeleton_Guardsman(N)":2
     }
 },
 {
@@ -560,7 +587,7 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":5
     },
     "loose_loot":{
        
@@ -577,6 +604,7 @@
     },
     "monster":{
        "Skeleton_Archer(N)":2,
+       "Skeleton_Guardsman(N)":2
     }
 },
 {
@@ -587,7 +615,9 @@
 
     },
     "chest":{
-       
+       "Coffin#Common":4,
+       "Small_Oak_Chest#Common":4,
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -605,6 +635,7 @@
     "monster":{
        "Skeleton_Archer(N)":1,
        "Skeleton_Footman(N)":4,
+       "Skeleton_Guardsman(N)":4
     }
 },
 {
@@ -615,7 +646,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":14,
+       "Oak_Chest#Common":9
     },
     "loose_loot":{
        
@@ -632,6 +664,7 @@
     },
     "monster":{
        "Skeleton_Footman(N)":2,
+       "Zombie(N)":7
     }
 },
 {
@@ -642,7 +675,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":9
     },
     "loose_loot":{
        
@@ -661,6 +694,9 @@
         "Wraith#Common":1,
         "Skeleton_Archer(N)":2,
         "Skeleton_Footman(N)":1,
+        "Spider_Pot(N)":1,
+        "Zombie(N)":2,
+        "Mummy(N)":2
     }
 },
 {
@@ -671,7 +707,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -689,6 +725,7 @@
     "monster":{
        "Skeleton_Archer(N)":1,
        "Skeleton_Footman(N)":1,
+       "Skeleton_Guardsman(N)":1
     }
 },
 {
@@ -699,7 +736,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -717,6 +754,7 @@
     "monster":{
        "Skeleton_Archer(N)":1,
        "Skeleton_Footman(N)":1,
+       "Skeleton_Guardsman(N)":2
     }
 },
 {
@@ -727,7 +765,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -743,7 +781,7 @@
        
     },
     "monster":{
-       
+       "Skeleton_Guardsman(N)":2
     }
 },
 {
@@ -754,7 +792,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -770,7 +808,7 @@
        
     },
     "monster":{
-       "Skeleton_Footman(N)":2,
+       "Skeleton_Footman(N)":2
     }
 },
 {
@@ -781,7 +819,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":6
     },
     "loose_loot":{
        
@@ -799,7 +837,7 @@
     "monster":{
        "Skeleton_Champion#Common":1,   
        "Skeleton_Archer(N)":1,
-       "Skeleton_Footman(N)":3,
+       "Skeleton_Footman(N)":3
     }
 },
 {
@@ -810,7 +848,8 @@
 
     },
     "chest":{
-       
+       "Small_Oak_Chest#Common":13,
+       "Oak_Chest#Common":4
     },
     "loose_loot":{
        
@@ -830,6 +869,7 @@
         "Skeleton_Archer(N)":2,
         "Skeleton_Footman(N)":2,
         "Skeleton_Mage(N)":1,
+        "Skeleton_Guardsman(N)":6
     }
 },
 {
@@ -856,7 +896,8 @@
        
     },
     "monster":{
-       
+       "Skeleton_Guardsman(N)":1,
+       "Spider_Mummy#Common":3
     }
 },
 {
@@ -884,7 +925,7 @@
     },
     "monster":{
        "Death_Skull(N)":3,
-        "Skeleton_Mage(N)":1,
+        "Skeleton_Mage(N)":1
     }
 },
 {
@@ -911,7 +952,7 @@
        
     },
     "monster":{
-       
+       "Spider_Pot(N)":1
     }
 },
 {
@@ -922,7 +963,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -938,7 +979,7 @@
        
     },
     "monster":{
-       "Death_Skull(N)":1,
+       "Death_Skull(N)":1
 
     }
 },
@@ -950,7 +991,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":2
     },
     "loose_loot":{
        
@@ -977,7 +1018,7 @@
 
     },
     "chest":{
-       
+       "Oak_Chest#Common":1
     },
     "loose_loot":{
        
@@ -993,7 +1034,8 @@
        
     },
     "monster":{
-       
+       "Skeleton_Guardsman(N)":2,
+       "Spider_Mummy#Common":3    
     }
 },
 {
@@ -1020,7 +1062,7 @@
        
     },
     "monster":{
-       
+        "Mummy(N)":6
     }
 }
 ]
