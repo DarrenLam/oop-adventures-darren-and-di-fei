@@ -5,7 +5,7 @@
     "room":"A1",
     "connection":["A2","B1","C1","C2","D1"],
     "shrine":{
-
+        "Shrine_of_Health":1
     },
     "chest":{
         "Small_Oak_Chest#HR":9,
@@ -14,10 +14,10 @@
         "Special_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Ground#HR":4
     },
     "ore":{
-
+        "Random_Ore#Common":14
     },
     "key":{
         
@@ -51,7 +51,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
         "Skeleton_Footman(HR)":1
@@ -61,13 +61,13 @@
     "room":"A3",
     "connection":["A2","A4","B2"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1
     },
     "chest":{
         "Coffin#HR":10
     },
     "loose_loot":{
-        
+        "Ground#HR":8
     },
     "ore":{
 
@@ -76,7 +76,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
         "Skeleton_Footman(HR)":5
@@ -86,7 +86,7 @@
     "room":"A4",
     "connection":["A3","B3","C5"],
     "shrine":{
-
+        "Shrine_of_Health":1
     },
     "chest":{
         "Small_Oak_Chest#HR":3,
@@ -94,7 +94,7 @@
         "Skeleton_Corpse#HR":1
     },
     "loose_loot":{
-        
+        "Ground#HR":16
     },
     "ore":{
 
@@ -103,7 +103,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":7
     },
     "monster":{
         "Skeleton_Champion#Elite":1 
@@ -113,14 +113,15 @@
     "room":"B1",
     "connection":["A2","B2","C1","C2","D1"],
     "shrine":{
-
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Oak_Chest#HR":2,
         "Large_Oak_Chest#HR":1
     },
     "loose_loot":{
-        
+        "Ground#HR":4,
+        "Bandage#HR":1
     },
     "ore":{
 
@@ -129,7 +130,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":5
     },
     "monster":{
         "Skeleton_Footman(HR)":2,
@@ -140,13 +141,13 @@
     "room":"B2",
     "connection":["A3","B1","B3","C3"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1  
     },
     "chest":{
         "Coffin#HR":13
     },
     "loose_loot":{
-        
+        "Ground#HR":8
     },
     "ore":{
 
@@ -155,7 +156,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
         "Skeleton_Footman(HR)":5
@@ -181,7 +182,8 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":1,
+        "Pot#HR":1
     },
     "monster":{
         "Wraith#Elite":1,
@@ -193,7 +195,8 @@
     "room":"C1",
     "connection":["A1","B1","C2","D1"],
     "shrine":{
-
+        "Fountain_of_Speed":1,
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Small_Oak_Chest#HR":1,
@@ -204,7 +207,11 @@
         "Skeleton_Bones#HR":3
     },
     "loose_loot":{
-        
+        "Ground#HR":2,
+        "Treasure#Common":5,
+        "Coin#HR":1,
+        "Potion#HR":1,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -213,7 +220,8 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":6,
+        "Pot#HR":8
     },
     "monster":{
         "Death_Skull(HR)":1,
@@ -227,7 +235,9 @@
     "room":"C2",
     "connection":["A1","B1","B2","C1","C3","D2"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1,
+        "Shrine_of_Power":1,
+        "Fountain_of_Speed":1
     },
     "chest":{
         "Coffin#HR":1,
@@ -241,13 +251,13 @@
         
     },
     "ore":{
-
+        "Random_Ore#Common":7
     },
     "key":{
         
     },
     "structure":{
-        
+        "Pot#HR":3  
     },
     "monster":{
         "Mummy(HR)":3
@@ -266,7 +276,9 @@
         "Stone_Tomb#HR":6
     },
     "loose_loot":{
-        
+        "Ground#HR":3,
+        "Lockpick#HR":1,
+        "Potion#HR":1
     },
     "ore":{
 
@@ -275,7 +287,8 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":6,
+        "Pot#HR":7
     },
     "monster":{
         "Wraith#Elite":1,
@@ -301,7 +314,9 @@
         "Golden_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Coin#HR":3,
+        "Potion#HR":3,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -339,7 +354,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
         "Giant_Dragonfly(HR)":4,
@@ -358,7 +373,9 @@
         "Special_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Lockpick#HR":2,
+        "Potion#HR":5,
+        "Weapon#Common":1
     },
     "ore":{
 
@@ -367,7 +384,8 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":1,
+        "Pot#HR":9
     },
     "monster":{
         "Skeleton_Mage(HR)":1,
@@ -385,7 +403,8 @@
         "Special_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Ground#HR":16,
+        "Treasure#Common":14
     },
     "ore":{
 
@@ -404,7 +423,7 @@
     "room":"D3",
     "connection":["C3","D2","D4","E4"],
     "shrine":{
-
+        "Shrine_of_Health":1
     },
     "chest":{
         "Oak_Chest#HR":7,
@@ -413,7 +432,10 @@
         "Special_Chest(HR)":2
     },
     "loose_loot":{
-        
+        "Treasure#Common":7,
+        "Coin#HR":1,
+        "Potion#HR":3,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -433,7 +455,9 @@
     "room":"D4",
     "connection":["C4","D3","E5"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1,
+        "Shrine_of_Power":1,
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Small_Oak_Chest#HR":7,
@@ -442,16 +466,20 @@
         "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
-        
+        "Ground#HR":3,
+        "Lockpick#HR":2,
+        "Coin#HR":1
     },
     "ore":{
-
+        "Random_Ore#Common":4
     },
     "key":{
         
     },
     "structure":{
-        
+        "Crate#HR":2,
+        "Barrel#HR":3,
+        "Pot#HR":10
     },
     "monster":{
         "Death_Skull(HR)":1,
@@ -467,7 +495,9 @@
     "room":"D5",
     "connection":["C4","D6","D7","E5"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1,
+        "Fountain_of_Speed":1,
+        "Shrine_of_Health":1
     },
     "chest":{
         "Oak_Chest#HR":4,
@@ -476,7 +506,8 @@
         "Stone_Tomb#HR":1
     },
     "loose_loot":{
-        
+        "Lockpick#HR":2,
+        "Coin#HR":11
     },
     "ore":{
 
@@ -499,7 +530,7 @@
     "room":"D6",
     "connection":["C5","D5"],
     "shrine":{
-
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Large_Oak_Chest#HR":3
@@ -514,7 +545,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":1
     },
     "monster":{
         "Skeleton_Footman(HR)":1,
@@ -526,7 +557,7 @@
     "room":"D7",
     "connection":["D5","E5","E6","E7","F5"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1
     },
     "chest":{
         "Large_Oak_Chest#HR":3
@@ -560,7 +591,8 @@
         "Special_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Ground#HR":8,
+        "Coin#HR":4
     },
     "ore":{
 
@@ -587,7 +619,8 @@
         "Skeleton_Bones#HR":1
     },
     "loose_loot":{
-        
+        "Ground#HR":4,
+        "Coin#HR":4
     },
     "ore":{
 
@@ -617,7 +650,9 @@
         "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
-        
+        "Ground#HR":6,
+        "Bandage#HR":1,
+        "Potion#HR":1
     },
     "ore":{
 
@@ -638,7 +673,8 @@
     "room":"E4",
     "connection":["D3","E3","E5","F4"],
     "shrine":{
-
+        "Fountain_of_Speed":1,
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Small_Oak_Chest#HR":14,
@@ -647,7 +683,9 @@
         "Special_Chest(HR)":1
     },
     "loose_loot":{
-        
+        "Ground#HR":21,
+        "Treasure#Common":3,
+        "Weapon#Common":1
     },
     "ore":{
 
@@ -656,7 +694,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":9
     },
     "monster":{
         "Giant_Dragonfly(HR)":2,
@@ -668,7 +706,10 @@
     "room":"E5",
     "connection":["D4","D5","D7","E4","E6","E7","F4","F5"],
     "shrine":{
-
+        "Shrine_of_Power":1,
+        "Fountain_of_Speed":1,
+        "Shrine_of_Health":1,
+        "Shrine_of_Protection":2
     },
     "chest":{
         "Oak_Chest#HR":9,
@@ -678,7 +719,8 @@
         "Skeleton_Bones#HR":3
     },
     "loose_loot":{
-        
+        "Coin#HR":2,
+        "Trinkets#HR":1
     },
     "ore":{
 
@@ -687,7 +729,9 @@
         
     },
     "structure":{
-        
+        "Crate#HR":6,
+        "Barrel#HR":5,
+        "Pot#HR":3
     },
     "monster":{
         "Wraith#Elite":1,
@@ -708,7 +752,8 @@
         "Oak_Chest#HR":3
     },
     "loose_loot":{
-        
+        "Ground#HR":2,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -717,7 +762,8 @@
         
     },
     "structure":{
-        
+        "Crate#HR":2,
+        "Pot#HR":2
     },
     "monster":{
         "Death_Skull(HR)":1,
@@ -736,7 +782,8 @@
         "Oak_Chest#HR":3
     },
     "loose_loot":{
-        
+        "Armory#HR":3,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -745,7 +792,8 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2,
+        "Pot#HR":2
     },
     "monster":{
         "Death_Skull(HR)":1,
@@ -773,7 +821,7 @@
         
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
         "Skeleton_Guardsman(HR)":2
@@ -816,7 +864,9 @@
         "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
-        
+        "Ground#HR":2,
+        "Potion#HR":5,
+        "Weapon#Common":2
     },
     "ore":{
 
@@ -825,7 +875,9 @@
         
     },
     "structure":{
-        
+        "Crate#HR":1,
+        "Barrel#HR":3,
+        "Pot#HR":1
     },
     "monster":{
         "Skeleton_Champion#Elite":1,
@@ -837,7 +889,8 @@
     "room":"F4",
     "connection":["E4","E5","F3","F5","G4","G5"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1,
+        "Shrine_of_Protection":1
     },
     "chest":{
         "Small_Oak_Chest#HR":13,
@@ -854,7 +907,8 @@
         
     },
     "structure":{
-        
+        "Crate#HR":8,
+        "Barrel#HR":14
     },
     "monster":{
         "Death_Skull(HR)":2,
@@ -868,7 +922,7 @@
     "room":"F5",
     "connection":["D7","E5","E6","E7","F4","G5"],
     "shrine":{
-
+        "Shrine_of_Health":1
     },
     "chest":{
         "Reinforced_Chest#HR":1
@@ -883,7 +937,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":2
     },
     "monster":{
         "Spider_Mummy(HR)":3,
@@ -894,13 +948,15 @@
     "room":"G1",
     "connection":["F1","G2"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1
     },
     "chest":{
         "Coffin#HR":3
     },
     "loose_loot":{
-        
+        "Bandage#HR":1,
+        "Coin#HR":1,
+        "Potion#HR":1
     },
     "ore":{
 
@@ -935,7 +991,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":9
     },
     "monster":{
         "Spider_Pot(HR)":1
@@ -977,7 +1033,7 @@
         "Oak_Chest#HR":2
     },
     "loose_loot":{
-        
+        "Potion#HR":2
     },
     "ore":{
 
@@ -996,7 +1052,7 @@
     "room":"G5",
     "connection":["F4","F5","G6"],
     "shrine":{
-
+        "Altar_Of_Sacrifice":1
     },
     "chest":{
         "Oak_Chest#HR":2
@@ -1011,7 +1067,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":2
     },
     "monster":{
        "Spider_Mummy(HR)":3,
@@ -1022,7 +1078,7 @@
     "room":"G6",
     "connection":["D7","E5","E6","E7","F5","G5"],
     "shrine":{
-
+        "Shrine_of_Health":1
     },
     "chest":{
         "Small_Oak_Chest#HR":2,
@@ -1038,7 +1094,7 @@
         
     },
     "structure":{
-        
+        "Pot#HR":6
     },
     "monster":{
         "Mummy(HR)":7
