@@ -8,7 +8,10 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":9
+        "Small_Oak_Chest#HR":9,
+        "Oak_Chest#HR":5,
+        "Large_Oak_Chest#HR":1,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -25,7 +28,8 @@
     "monster":{
         "Death_Skull(HR)":4,
         "Skeleton_Archer(HR)":3,
-        "Skeleton_Footman(HR)":6
+        "Skeleton_Footman(HR)":6,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -85,7 +89,9 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":3
+        "Small_Oak_Chest#HR":3,
+        "Oak_Chest#HR":8,
+        "Skeleton_Corpse#HR":1
     },
     "loose_loot":{
         
@@ -110,7 +116,8 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2,
+        "Large_Oak_Chest#HR":1
     },
     "loose_loot":{
         
@@ -161,7 +168,8 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":8 
+        "Small_Oak_Chest#HR":8,
+        "Oak_Chest#HR":3
     },
     "loose_loot":{
         
@@ -188,7 +196,12 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":1
+        "Small_Oak_Chest#HR":1,
+        "Oak_Chest#HR":6,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":1,
+        "Special_Chest(HR)":1,
+        "Skeleton_Bones#HR":3
     },
     "loose_loot":{
         
@@ -206,7 +219,8 @@
         "Death_Skull(HR)":1,
         "Skeleton_Footman(HR)":3,
         "Zombie(HR)":1,
-        "Spider_Mummy(HR)":2
+        "Spider_Mummy(HR)":2,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -217,7 +231,11 @@
     },
     "chest":{
         "Coffin#HR":1,
-        "Small_Oak_Chest#HR":8
+        "Small_Oak_Chest#HR":8,
+        "Oak_Chest#HR":3,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":1,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -242,7 +260,10 @@
 
     },
     "chest":{
-        "Coffin#HR":3
+        "Coffin#HR":3,
+        "Oak_Chest#HR":8,
+        "Special_Chest(HR)":1,
+        "Stone_Tomb#HR":6
     },
     "loose_loot":{
         
@@ -263,7 +284,8 @@
         "Skeleton_Footman(HR)":1,
         "Spider_Pot(HR)":1,
         "Zombie(HR)":2,
-        "Mummy(HR)":2
+        "Mummy(HR)":2,
+        "Skeleton_Guardsman(HR)":4
     }
 },
 {
@@ -273,7 +295,10 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":2
+        "Small_Oak_Chest#HR":2,
+        "Oak_Chest#HR":11,
+        "Skeleton_Corpse#HR":7,
+        "Golden_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -289,7 +314,8 @@
     },
     "monster":{
         "Skeleton_Archer(HR)":4,
-        "Zombie(HR)":4
+        "Zombie(HR)":4,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -299,7 +325,9 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":10,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -326,7 +354,8 @@
 
     },
     "chest":{
-        
+        "Skeleton_Corpse#HR":2,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -352,7 +381,8 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":4
+        "Small_Oak_Chest#HR":4,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -377,7 +407,10 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":7,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":5,
+        "Special_Chest(HR)":2
     },
     "loose_loot":{
         
@@ -403,7 +436,10 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":7
+        "Small_Oak_Chest#HR":7,
+        "Oak_Chest#HR":1,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -423,7 +459,8 @@
         "Skeleton_Archer(HR)":1,
         "Spider_Pot(HR)":1,
         "Zombie(HR)":3,
-        "Mummy(HR)":4
+        "Mummy(HR)":4,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -433,7 +470,10 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":4,
+        "Large_Oak_Chest#HR":2,
+        "Golden_Chest(HR)":2,
+        "Stone_Tomb#HR":1
     },
     "loose_loot":{
         
@@ -462,7 +502,7 @@
 
     },
     "chest":{
-        
+        "Large_Oak_Chest#HR":3
     },
     "loose_loot":{
         
@@ -478,7 +518,8 @@
     },
     "monster":{
         "Skeleton_Footman(HR)":1,
-        "Skeleton_Mage(HR)":4
+        "Skeleton_Mage(HR)":4,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -488,7 +529,7 @@
 
     },
     "chest":{
-        
+        "Large_Oak_Chest#HR":3
     },
     "loose_loot":{
         
@@ -504,7 +545,8 @@
     },
     "monster":{
         "Skeleton_Footman(HR)":1,
-        "Skeleton_Mage(HR)":2
+        "Skeleton_Mage(HR)":2,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -514,7 +556,8 @@
 
     },
     "chest":{
-        "Coffin#HR":4
+        "Coffin#HR":4,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -529,7 +572,8 @@
         
     },
     "monster":{
-        "Skeleton_Archer(HR)":2
+        "Skeleton_Archer(HR)":2,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -539,7 +583,8 @@
 
     },
     "chest":{
-        "Coffin#HR":5
+        "Coffin#HR":5,
+        "Skeleton_Bones#HR":1
     },
     "loose_loot":{
         
@@ -554,7 +599,8 @@
         
     },
     "monster":{
-        "Skeleton_Archer(HR)":2
+        "Skeleton_Archer(HR)":2,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -565,7 +611,10 @@
     },
     "chest":{
         "Coffin#HR":4,
-        "Small_Oak_Chest#HR":5
+        "Small_Oak_Chest#HR":5,
+        "Oak_Chest#HR":2,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -581,7 +630,8 @@
     },
     "monster":{
         "Skeleton_Archer(HR)":1,
-        "Skeleton_Footman(HR)":5
+        "Skeleton_Footman(HR)":5,
+        "Skeleton_Guardsman(HR)":4
     }
 },
 {
@@ -591,7 +641,10 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":14
+        "Small_Oak_Chest#HR":14,
+        "Oak_Chest#HR":9,
+        "Large_Oak_Chest#HR":2,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -618,7 +671,11 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":9,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":2,
+        "Special_Chest(HR)":1,
+        "Skeleton_Bones#HR":3
     },
     "loose_loot":{
         
@@ -648,7 +705,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":3
     },
     "loose_loot":{
         
@@ -665,7 +722,8 @@
     "monster":{
         "Death_Skull(HR)":1,
         "Skeleton_Archer(HR)":1,
-        "Skeleton_Footman(HR)":1
+        "Skeleton_Footman(HR)":1,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -675,7 +733,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":3
     },
     "loose_loot":{
         
@@ -692,7 +750,8 @@
     "monster":{
         "Death_Skull(HR)":1,
         "Skeleton_Archer(HR)":1,
-        "Skeleton_Footman(HR)":1
+        "Skeleton_Footman(HR)":1,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -702,7 +761,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -717,7 +776,7 @@
         
     },
     "monster":{
-        
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -727,7 +786,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -752,7 +811,9 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":6,
+        "Skeleton_Corpse#HR":1,
+        "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -779,7 +840,9 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":13
+        "Small_Oak_Chest#HR":13,
+        "Oak_Chest#HR":4,
+        "Special_Chest(HR)":1
     },
     "loose_loot":{
         
@@ -797,7 +860,8 @@
         "Death_Skull(HR)":2,
         "Skeleton_Archer(HR)":2,
         "Skeleton_Footman(HR)":3,
-        "Skeleton_Mage(HR)":1
+        "Skeleton_Mage(HR)":1,
+        "Skeleton_Guardsman(HR)":5
     }
 },
 {
@@ -807,7 +871,7 @@
 
     },
     "chest":{
-        
+        "Reinforced_Chest#HR":1
     },
     "loose_loot":{
         
@@ -822,7 +886,8 @@
         
     },
     "monster":{
-        "Spider_Mummy(HR)":3
+        "Spider_Mummy(HR)":3,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -883,7 +948,8 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2,
+        "Large_Oak_Chest#HR":1
     },
     "loose_loot":{
         
@@ -908,7 +974,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -933,7 +999,7 @@
 
     },
     "chest":{
-        
+        "Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -948,7 +1014,8 @@
         
     },
     "monster":{
-       "Spider_Mummy(HR)":3 
+       "Spider_Mummy(HR)":3,
+       "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -958,7 +1025,8 @@
 
     },
     "chest":{
-        "Small_Oak_Chest#HR":2
+        "Small_Oak_Chest#HR":2,
+        "Large_Oak_Chest#HR":2
     },
     "loose_loot":{
         
@@ -973,7 +1041,7 @@
         
     },
     "monster":{
-        
+        "Mummy(HR)":7
     }
 }
 ]
