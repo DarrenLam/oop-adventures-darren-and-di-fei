@@ -1,251 +1,302 @@
 [{
-    "A1":{
-        "connection":["A2","B1"],
-        "shrine":{
-            "Altar of Sacrifice":1,
-            "Shine of Protection":1
-        },
-        "chest":{
-            "Small":8,
-            "Medium":8,
-            "Large":4,
-            "Special":2
-        },
-        "loose_loot":{
-            "coin":17,
-            "potion":5,
-            "bandage":7
-        },
-        "ore":{
-            "Rubysilver":6
-        },
-        "monster":{
-            "Demon Dog":3,
-            "Mummy":4,
-            "Skeleton Footman":6,
-            "Skeleton Archer":5,
-            "Wraith":1
-        }
+    "spawns":["A1","A2","A3","B1","B3","C1","C2","C3"]
+},
+{
+    "room":"A1",
+    "connection":["A2","B1"],
+    "shrine":{
+        "Shrine_of_Health":1,
+        "Shrine_of_Protection":1
+    },
+    "chest":{
+        "Golden_Chest(HR)":2,
+        "Small_Reinforced_Chest#HR":8,
+        "Reinforced_Chest#HR":4,
+        "Large_Reinforced_Chest#HR":4
+    },
+    "loose_loot":{
+        "Bandage#HR":6,
+        "Coin#HR":14,
+        "Potion#HR":2
+    },
+    "ore":{
+        "Random_Ore#Common":6
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "A2":{
-        "connection":["A1","A3","B2"],
-        "shrine":{
-            "Altar of Sacrifice":1
-        },
-        "chest":{
-            "Small":5,
-            "Medium":9,
-            "Large":2,
-            "Special":1,
-            "Skeleton Corpse":1
-        },
-        "loose_loot":{
-            "coin":4,
-            "bandage":6,
-            "gem":12,
-            "potion":1
-        },
-        "structure":{
-            "Pot":6
-        },
-        "monster":{
-            "Demon Dog":2,
-            "Dragonfly":4,
-            "Mummy":3,
-            "Skeleton Footman":2,
-            "Skeleton Guardsman":2,
-            "Skeleton Mage":1
-        }
+    "room":"A2",
+    "connection":["A1","A3","B2"],
+    "shrine":{
+        "Altar_Of_Sacrifice":1
+    },
+    "chest":{
+        "Skeleton_Corpse#HR":1,
+        "Golden_Chest(HR)":1,
+        "Small_Reinforced_Chest#HR":5,
+        "Reinforced_Chest#HR":9,
+        "Large_Reinforced_Chest#HR":2
+    },
+    "loose_loot":{
+        "Bandage#HR":6,
+        "Gems#HR":12,
+        "Coins#HR":5,
+        "Potion#HR":1
+    },
+    "ore":{
+        
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "A3":{
-        "connection":["A2","B3"],
-        "chest":{
-            "Small":7,
-            "Special":1
-        },
-        "loose_loot":{
-            "coin":8,
-            "bandage":4,
-            "treasure":1
-        },
-        "structure":{
-            "Wooden Barrel":11
-        },
-        "monster":{
-            "Death Skull":2,
-            "Demon Dog":2,
-            "Zombie":2,
-            "Skeleton Footman":3,
-            "Skeleton Guardsman":1,
-            "Skeleton Archer":1,
-            "Skeleton Mage":1
-        }
+    "room":"A3",
+    "connection":["A2","B3"],
+    "shrine":{
+
+    },
+    "chest":{
+        "Golden_Chest(HR)":1,
+        "Small_Reinforced_Chest#HR":7
+    },
+    "loose_loot":{
+        "Bandage#HR":7,
+        "Coin#HR":19
+    },
+    "ore":{
+        
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "B1":{
-        "connection":["A1","B2","C1"],
-        "chest":{
-        "Small":1,
-        "Medium":19,
-        "Large":3,
-        "Special":1
-        },
-        "loose_loot":{
-            "loot":9,
-            "coin":1,
-            "potion":1,
-            "weapon":1
-        },
-        "structure":{
-            "Pot":24,
-            "Wooden Barrel":17
-        },
-        "ore":{
-            "Rubysilver":3
-        },
-        "monster":{
-            "Spider Pot":3,
-            "Skeleton Footman":14,
-            "Skeleton Archer":4,
-            "Skeleton Guardsman":1,
-            "Skeleton Mage":1
-        }
+    "room":"B1",
+    "connection":["A1","B2","C1"],
+    "shrine":{
+
+    },
+    "chest":{
+        "Golden_Chest(HR)":1,
+        "Small_Reinforced_Chest#HR":1,
+        "Reinforced_Chest#HR":19,
+        "Large_Reinforced_Chest#HR":3
+    },
+    "loose_loot":{
+        "Ground#HR":9,
+        "Coin#HR":1,
+        "Potion#HR":2,
+        "Weapon#Rare":1
+    },
+    "ore":{
+        "Random_Ore#Common":3
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "B2":{
-        "connection":["A2","B1","B3","C2"],
-        "chest":{
-            "Coffin":5,
-            "Treasure Hoard":1
-        },
-        "monster":{
-            "Lich":1,
-            "Skeleton Guardsman":3,
-            "Skeleton Archer":3
-        }
+    "room":"B2",
+    "connection":["A2","B1","B3","C2"],
+    "shrine":{
+
+    },
+    "chest":{
+        "Coffin#HR":5
+    },
+    "loose_loot":{
+
+    },
+    "ore":{
+        
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "B3":{
-        "connection":["A3","B2","C3"],
-        "shrine":{
-            "Shrine of Protection":1,
-            "Shrine of Power":1
-        },
-        "chest":{
-            "Small":8,
-            "Medium":1,
-            "Special":1
-        },
-        "loose_loot":{
-            "coin":4,
-            "bandage":3,
-            "gem":4
-        },
-        "structure":{
-            "Pot":2
-        },
-        "ore":{
-            "Rubysilver":8
-        },
-        "monster":{
-            "Centaur":1,
-            "Demon Bat":2,
-            "Demon Dog":1,
-            "Skeleton Footman":1,
-            "Skeleton Guardsman":1,
-            "Zombie":4
-        }
+    "room":"B3",
+    "connection":["A3","B2","C3"],
+    "shrine":{
+        "Shrine_of_Protection":2
+    },
+    "chest":{
+        "Golden_Chest(HR)":1,
+        "Small_Reinforced_Chest#HR":8
+    },
+    "loose_loot":{
+        "Bandage#HR":3,
+        "Gems#HR":4,
+        "Coin#HR":4
+    },
+    "ore":{
+        "Random_Ore#Common":7
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "C1":{
-        "connection":["B1","C2"],
-        "shrine":{
-            "Altar of Sacrifice":1
-        },
-        "chest":{
-            "Medium":8,
-            "Special":2,
-            "Lion's Head":1
-        },
-        "monster":{
-            "Centaur":1,
-            "Death Skull":4,
-            "Demon Dog":2,
-            "Dragonfly":1,
-            "Mummy":2,
-            "Skeleton Footman":3,
-            "Skeleton Guardsman":3
-        }
+    "room":"C1",
+    "connection":["B1","C2"],
+    "shrine":{
+        "Altar_Of_Sacrifice":1
+    },
+    "chest":{
+        "Golden_Chest(HR)":2,
+        "Reinforced_Chest#HR":8,
+        "Lion's_Head_Chest#HR":1
+    },
+    "loose_loot":{
+
+    },
+    "ore":{
+        
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "C2":{
-        "connection":["B2","C1","C3"],
-        "shrine":{
-            "Shrine of Health":1
-        },
-        "chest":{
-            "Small":3,
-            "Medium":3,
-            "Special":1,
-            "Heavy Ornate":1,
-            "Skeleton Bones":5
-        },
-        "structure":{
-            "Wooden Barrel":2
-        },
-        "monster":{
-            "Demon Dog":2,
-            "Zombie":2,
-            "Skeleton Archer":2,
-            "Skeleton Mage":1,
-            "Skeleton Footman":2,
-            "Skeleton Guardsman":2
-        }
+    "room":"C2",
+    "connection":["B2","C1","C3"],
+    "shrine":{
+        "Shrine_of_Health":1
+    },
+    "chest":{
+        "Heavy_Ornate_Chest#HR":1,
+        "Golden_Chest(HR)":1,
+        "Skeleton_Bones#HR":5,
+        "Small_Reinforced_Chest#HR":3,
+        "Reinforced_Chest#HR":3
+    },
+    "loose_loot":{
+
+    },
+    "ore":{
+        
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 },
 {
-    "C3":{
-        "connection":["B3","C2"],
-        "shrine":{
-            "Shrine of Health":2,
-            "Altar of Sacrifice":1
-        },
-        "chest":{
-            "Small":12,
-            "Medium":8,
-            "Large":4,
-            "Special":1,
-            "Skeleton Corpse":1
-        },
-        "ore":{
-            "Rubysilver":11
-        },
-        "structure":{
-            "Wooden Barrel":7,
-            "Pot":5
-        },
-        "loose_loot":{
-            "coin":31,
-            "bandage":10,
-            "potion":2,
-            "gem":2
-        },
-        "monster":{
-            "Centaur":1,
-            "Demon Dog":1,
-            "Dragonfly":3,
-            "Skeleton Archer":4,
-            "Skeleton Footman":2
-        }
+    "room":"C3",
+    "connection":["B3","C2"],
+    "shrine":{
+        "Shrine_of_Health":2,
+        "Altar_Of_Sacrifice":1
+    },
+    "chest":{
+        "Golden_Chest(HR)":1,
+        "Small_Reinforced_Chest#HR":12,
+        "Reinforced_Chest#HR":8,
+        "Large_Reinforced_Chest#HR":3
+    },
+    "loose_loot":{
+        "Bandage#HR":10,
+        "Gems#HR":2,
+        "Coin#HR":28,
+        "Potion#HR":2
+    },
+    "ore":{
+        "Random_Ore#Common":11
+    },
+    "key":{
+       
+    },
+    "structure":{
+        
+    },
+    "monster":{
+        "Wraith#Elite":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":5,
+        "Skeleton_Footman(HR)":6,
+        "Mummy(HR)":4
     }
 }
 ]
