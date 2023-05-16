@@ -9,7 +9,7 @@
         "Shrine_of_Protection":1
     },
     "chest":{
-        "Golden_Chest(HR)":2,
+        "Golden_Chest(HR2)":2,
         "Small_Reinforced_Chest#HR":8,
         "Reinforced_Chest#HR":4,
         "Large_Reinforced_Chest#HR":4
@@ -30,10 +30,10 @@
     },
     "monster":{
         "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Demon_Dog(HR2)":3,
+        "Skeleton_Archer(HR2)":5,
+        "Skeleton_Footman(HR2)":6,
+        "Mummy(HR2)":4
     }
 },
 {
@@ -44,7 +44,7 @@
     },
     "chest":{
         "Skeleton_Corpse#HR":1,
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Small_Reinforced_Chest#HR":5,
         "Reinforced_Chest#HR":9,
         "Large_Reinforced_Chest#HR":2
@@ -62,14 +62,15 @@
        
     },
     "structure":{
-        
+        "Pot#HR":6
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Demon_Dog(HR2)":2,
+        "Giant_Dragonfly(HR2)":4,
+        "Skeleton_Footman(HR2)":2,
+        "Skeleton_Mage(HR2)":1,
+        "Mummy(HR2)":3,
+        "Skeleton_Guardsman(HR2)":2
     }
 },
 {
@@ -79,7 +80,7 @@
 
     },
     "chest":{
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Small_Reinforced_Chest#HR":7
     },
     "loose_loot":{
@@ -93,14 +94,14 @@
        
     },
     "structure":{
-        
+        "Barrel#HR":11
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Death_Skull(HR2)":2,
+        "Skeleton_Archer(HR2)":1,
+        "Skeleton_Footman(HR2)":3,
+        "Skeleton_Mage(HR2)":1,
+        "Skeleton_Guardsman(HR2)":1
     }
 },
 {
@@ -110,7 +111,7 @@
 
     },
     "chest":{
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Small_Reinforced_Chest#HR":1,
         "Reinforced_Chest#HR":19,
         "Large_Reinforced_Chest#HR":3
@@ -128,14 +129,15 @@
        
     },
     "structure":{
-        
+        "Barrel#HR":17,
+        "Pot#HR":21
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Skeleton_Archer(HR2)":4,
+        "Skeleton_Footman(HR2)":14,
+        "Skeleton_Mage(HR2)":1,
+        "Spider_Pot(HR2)":3,
+        "Skeleton_Guardsman(HR2)":1
     }
 },
 {
@@ -145,7 +147,8 @@
 
     },
     "chest":{
-        "Coffin#HR":5
+        "Coffin#HR":5,
+        "Hoard#N":1
     },
     "loose_loot":{
 
@@ -160,11 +163,9 @@
         
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Lich#Elite":1,
+        "Skeleton_Archer(HR2)":3,
+        "Skeleton_Guardsman(HR2)":3
     }
 },
 {
@@ -174,7 +175,7 @@
         "Shrine_of_Protection":2
     },
     "chest":{
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Small_Reinforced_Chest#HR":8
     },
     "loose_loot":{
@@ -189,14 +190,13 @@
        
     },
     "structure":{
-        
+        "Pot#HR":2
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Centaur_Demon#Elite":1,
+        "Skeleton_Footman(HR2)":1,
+        "Demon_Bat(HR2)":2,
+        "Skeleton_Guardsman(HR2)":1
     }
 },
 {
@@ -206,7 +206,7 @@
         "Altar_Of_Sacrifice":1
     },
     "chest":{
-        "Golden_Chest(HR)":2,
+        "Golden_Chest(HR2)":2,
         "Reinforced_Chest#HR":8,
         "Lion's_Head_Chest#HR":1
     },
@@ -223,11 +223,11 @@
         
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Demon_Dog(HR2)":2,
+        "Giant_Dragonfly(HR2)":1,
+        "Skeleton_Footman(HR2)":3,
+        "Mummy(HR2)":2,
+        "Skeleton_Guardsman(HR2)":3
     }
 },
 {
@@ -238,7 +238,7 @@
     },
     "chest":{
         "Heavy_Ornate_Chest#HR":1,
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Skeleton_Bones#HR":5,
         "Small_Reinforced_Chest#HR":3,
         "Reinforced_Chest#HR":3
@@ -253,14 +253,14 @@
        
     },
     "structure":{
-        
+        "Barrel#HR":2
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Demon_Dog(HR2)":2,
+        "Skeleton_Archer(HR2)":2,
+        "Skeleton_Footman(HR2)":2,
+        "Skeleton_Mage(HR2)":1,
+        "Skeleton_Guardsman(HR2)":2
     }
 },
 {
@@ -271,7 +271,7 @@
         "Altar_Of_Sacrifice":1
     },
     "chest":{
-        "Golden_Chest(HR)":1,
+        "Golden_Chest(HR2)":1,
         "Small_Reinforced_Chest#HR":12,
         "Reinforced_Chest#HR":8,
         "Large_Reinforced_Chest#HR":3
@@ -289,14 +289,15 @@
        
     },
     "structure":{
-        
+        "Barrel#HR":7,
+        "Pot#HR":5
     },
     "monster":{
-        "Wraith#Elite":1,
-        "Demon_Dog(HR)":3,
-        "Skeleton_Archer(HR)":5,
-        "Skeleton_Footman(HR)":6,
-        "Mummy(HR)":4
+        "Centaur_Demon#Elite":1,
+        "Demon_Dog(HR2)":1,
+        "Giant_Dragonfly(HR2)":3,
+        "Skeleton_Archer(HR2)":4,
+        "Skeleton_Footman(HR2)":2
     }
 }
 ]
