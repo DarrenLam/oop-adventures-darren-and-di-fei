@@ -10,15 +10,17 @@
     },
     "chest":{
         "Golden_Chest(N)":2,
-        "Small_Reinforced_Chest#N":8,
-        "Reinforced_Chest#N":6,
-        "Large_Reinforced_Chest#N":4
+        "Small_Reinforced_Chest#Common":8,
+        "Reinforced_Chest#Common":6,
+        "Large_Reinforced_Chest#Common":4
     },
     "loose_loot":{
-
+        "Bandage#Common":8,
+        "Coin#Common":16,
+        "Potion#Common":4
     },
     "ore":{
-
+        "Random_Ore#Common":6
     },
     "key":{
 
@@ -27,7 +29,11 @@
 
     },
     "monster":{
-
+        "Wraith#Common":1,
+        "Demon_Dog(HR)":3,
+        "Skeleton_Archer(HR)":4,
+        "Skeleton_Footman(HR)":3,
+        "Mummy(HR)":3
     }
 },
 {
@@ -37,14 +43,17 @@
         "Altar_Of_Sacrifice":1
     },
     "chest":{
-        "Skeleton_Corpse#N":1,
+        "Skeleton_Corpse#Common":1,
         "Golden_Chest(N)":1,
-        "Small_Reinforced_Chest#N":5,
-        "Reinforced_Chest#N":9,
-        "Large_Reinforced_Chest#N":2
+        "Small_Reinforced_Chest#Common":5,
+        "Reinforced_Chest#Common":9,
+        "Large_Reinforced_Chest#Common":2
     },
     "loose_loot":{
-
+        "Bandage#Common":6,
+        "Gems#Common":12,
+        "Coin#Common":5,
+        "Potion#Common":2
     },
     "ore":{
 
@@ -53,10 +62,15 @@
 
     },
     "structure":{
-
+        "Pot#Common":6
     },
     "monster":{
-
+        "Demon_Dog(HR)":2,
+        "Giant_Dragonfly(HR)":4,
+        "Skeleton_Footman(HR)":2,
+        "Skeleton_Mage(HR)":1,
+        "Mummy(HR)":3,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -67,11 +81,13 @@
     },
     "chest":{
         "Golden_Chest(N)":1,
-        "Small_Reinforced_Chest#N":7,
-        "Large_Reinforced_Chest#N":3
+        "Small_Reinforced_Chest#Common":7,
+        "Large_Reinforced_Chest#Common":3
     },
     "loose_loot":{
-
+        "Treasure#Poor":1,
+        "Bandage#Common":8,
+        "Coin#Common":21
     },
     "ore":{
 
@@ -80,10 +96,14 @@
 
     },
     "structure":{
-
+        "Barrel#Common":11
     },
     "monster":{
-
+        "Death_Skull(HR)":2,
+        "Demon_Dog(HR)":2,
+        "Skeleton_Archer(HR)":2,
+        "Skeleton_Mage(HR)":1,
+        "Zombie(HR)":2
     }
 },
 {
@@ -94,23 +114,31 @@
     },
     "chest":{
         "Golden_Chest(N)":1,
-        "Small_Reinforced_Chest#N":1,
-        "Reinforced_Chest#N":19
+        "Small_Reinforced_Chest#Common":1,
+        "Reinforced_Chest#Common":19
     },
     "loose_loot":{
-
+        "Ground#Common":9,
+        "Coin#Common":2,
+        "Potion#Common":1,
+        "Weapon#Rare":1
     },
     "ore":{
-
+        "Rubysilver_Ore":3
     },
     "key":{
 
     },
     "structure":{
-
+        "Barrel#Common":17,
+        "Pot#Common":21
     },
     "monster":{
-
+        "Skeleton_Archer(HR)":4,
+        "Skeleton_Footman(HR)":14,
+        "Skeleton_Mage(HR)":1,
+        "Spider_Pot(HR)":3,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -120,8 +148,8 @@
         
     },
     "chest":{
-        "Coffin#N":5,
-        "Hoard#N":1
+        "Coffin#Common":5,
+        "Hoard#Common":1
     },
     "loose_loot":{
 
@@ -136,7 +164,9 @@
 
     },
     "monster":{
-
+        "Lich#Common":1,
+        "Skeleton_Archer(HR)":3,
+        "Skeleton_Guardsman(HR)":3
     }
 },
 {
@@ -147,23 +177,30 @@
     },
     "chest":{
         "Golden_Chest(N)":1,
-        "Small_Reinforced_Chest#N":8,
-        "Reinforced_Chest#N":1
+        "Small_Reinforced_Chest#Common":8,
+        "Reinforced_Chest#Common":1
     },
     "loose_loot":{
-
+        "Bandage#Common":3,
+        "Gems#Common":4,
+        "Coin#Common":4
     },
     "ore":{
-
+        "Rubysilver_Ore":7
     },
     "key":{
 
     },
     "structure":{
-
+        "Pot#Common":2
     },
     "monster":{
-
+        "Centaur_Demon#Common":1,
+        "Demon_Dog(HR)":1,
+        "Skeleton_Footman(HR)":1,
+        "Zombie(HR)":4,
+        "Demon_Bat(HR)":1,
+        "Skeleton_Guardsman(HR)":1
     }
 },
 {
@@ -174,8 +211,8 @@
     },
     "chest":{
         "Golden_Chest(N)":2,
-        "Reinforced_Chest#N":8,
-        "Lion's_Head_Chest#N":1
+        "Reinforced_Chest#Common":8,
+        "Lion's_Head_Chest#Common":1
     },
     "loose_loot":{
 
@@ -190,7 +227,13 @@
 
     },
     "monster":{
-
+        "Centaur_Demon#Common":1,
+        "Death_Skull(HR)":4,
+        "Demon_Dog(HR)":2,
+        "Giant_Dragonfly(HR)":1,
+        "Skeleton_Footman(HR)":3,
+        "Mummy(HR)":2,
+        "Skeleton_Guardsman(HR)":3
     }
 },
 {
@@ -200,12 +243,12 @@
         "Shrine_of_Health":1
     },
     "chest":{
-        "Small_Oak_Chest#N":1,
-        "Heavy_Ornate_Chest#N":1,
+        "Small_Oak_Chest#Common":1,
+        "Heavy_Ornate_Chest#Common":1,
         "Golden_Chest(N)":1,
-        "Skeleton_Bones#N":5,
-        "Small_Reinforced_Chest#N":2,
-        "Reinforced_Chest#N":3
+        "Skeleton_Bones#Common":5,
+        "Small_Reinforced_Chest#Common":2,
+        "Reinforced_Chest#Common":3
     },
     "loose_loot":{
 
@@ -217,10 +260,15 @@
 
     },
     "structure":{
-
+        "Barrel#Common":2
     },
     "monster":{
-
+        "Demon_Dog(HR)":2,
+        "Skeleton_Archer(HR)":2,
+        "Skeleton_Footman(HR)":2,
+        "Skeleton_Mage(HR)":1,
+        "Zombie(HR)":2,
+        "Skeleton_Guardsman(HR)":2
     }
 },
 {
@@ -231,26 +279,35 @@
         "Shrine_of_Health":2
     },
     "chest":{
-        "Oak_Chest#N":1,
+        "Oak_Chest#Common":1,
         "Golden_Chest(N)":1,
-        "Small_Reinforced_Chest#N":12,
-        "Reinforced_Chest#N":7,
-        "Large_Reinforced_Chest#N":3
+        "Small_Reinforced_Chest#Common":12,
+        "Reinforced_Chest#Common":7,
+        "Large_Reinforced_Chest#Common":3,
+        "Skeleton_Corpse#Common":1
     },
     "loose_loot":{
-
+        "Bandage#Common":9,
+        "Gems#Common":2,
+        "Coin#Common":27,
+        "Potion#Common":2
     },
     "ore":{
-
+        "Random_Ore#Common":11
     },
     "key":{
 
     },
     "structure":{
-
+        "Barrel#Common":7,
+        "Pot#Common":5
     },
     "monster":{
-        "Skeleton_Corpse#N":1
+        "Centaur_Demon#Common":1,
+        "Demon_Dog(HR)":1,
+        "Giant_Dragonfly(HR)":3,
+        "Skeleton_Archer(HR)":4,
+        "Skeleton_Footman(HR)":2
     }
 }
 ]
