@@ -1,0 +1,16 @@
+[{
+    "#Poor":49.999,
+    "#Common":50.001,
+    "#Poor_Items":[
+        "Armet#Poor",
+        "Arming_Sword#Poor"
+    ],
+    "Common_Items":[
+        "Armet#Common",
+        "Arming_Sword#Common"
+    ],
+    "id":"Small_Oak_Chest#Common",
+    "name":"Small Oak Chest",
+    "rolls":2
+}
+]
